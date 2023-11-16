@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/Unreal Projects/Test/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/argon/Documents/GitHub/TestMitDario/Test/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
+				"C:/Users/argon/Documents/GitHub/TestMitDario/Test/Content/FMOD/Banks/Master_streams.uasset",
+				"C:/Users/argon/Documents/GitHub/TestMitDario/Test/Content/FMOD/Buses/Reverb.uasset",
+				"C:/Users/argon/Documents/GitHub/TestMitDario/Test/Content/FMOD/Banks/Master_assets.uasset",
+				"C:/Users/argon/Documents/GitHub/TestMitDario/Test/Content/FMOD/Events/Atmo.uasset",
+				"C:/Users/argon/Documents/GitHub/TestMitDario/Test/Content/FMOD/Banks/Master.uasset",
+				"C:/Users/argon/Documents/GitHub/TestMitDario/Test/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
+				"C:/Users/argon/Documents/GitHub/TestMitDario/Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/QG/M6QZGH028TIALMRK2O38YD.uasset"
+			]
+		}
+	]
+}
